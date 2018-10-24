@@ -12,9 +12,6 @@ import IconsStorage from "./IconsStorage";
 import Radium from "radium";
 
 class MaterialUiIconPicker extends React.Component {
-	iconsStorage;
-	styles;
-
 	constructor(props) {
 		super(props);
 
@@ -355,4 +352,4 @@ MaterialUiIconPicker.defaultProps = {
 	pickLabel: "Pick"
 };
 
-export default Radium(MaterialUiIconPicker);
+export default MaterialUiIconPicker;
