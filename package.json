@@ -1,17 +1,13 @@
 {
-  "name": "react-material-ui-icon-picker",
+  "name": "material-ui-icon-picker",
   "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
   "description": "material-ui-icon-picker",
   "main": "lib/MaterialUiIconPicker.js",
-  "author": "Daniele De Matteo",
-  "homepage": "https://github.com/DMDc0de/material-ui-icon-picker",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DMDc0de/material-ui-icon-picker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/DMDc0de/material-ui-icon-picker/issues"
-  },
+  "author": "Ripjar",
+  "homepage": "https://github.com/ripjar/material-ui-icon-picker",
+  "repository": "git@github.com:ripjar/material-ui-icon-picker.git",
   "dependencies": {
     "classnames": "^2.1.2",
     "material-ui": "^0.19.3",
